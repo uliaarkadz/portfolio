@@ -60,3 +60,8 @@ code {
   margin-top: 20px;
   padding: 15px;
 }
+.footercontent {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+}
